@@ -1,3 +1,16 @@
+layout_spectrum: 0.013193083920027361
+typography_spectrum: 0.574446526265491
+color:
+  lightness: 0.9095921385005153
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.6314647285633785
+  brandStrength: 0.36706525034234294
+  rhythmicContrast: 0.41261954732681855
 name: Anton Klima
 analytics: {}
 purpose:
@@ -47,7 +60,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -57,20 +69,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.795885205558953
-color:
-  lightness: 0.25380446406606916
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  saturation: 0.03089507925988055
-  brandStrength: 0.6516728087125512
-  rhythmicContrast: 0.7983964179422116
 content_rating:
   adult: false
-typography_spectrum: 0.07745221146493045
 opengraph: {}
 title: Anton Klima
